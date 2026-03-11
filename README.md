@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Tushar Ahuja 👋
 
-<!--
-**tusharahuja2019-stack/tusharahuja2019-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with experience in:
 
-Here are some ideas to get you started:
+- Python
+- FastAPI
+- Generative AI (RAG, LangChain)
+- Automation using Robot Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+
+AI-driven SDLC automation and cybersecurity vulnerability detection agents.
+
+## Tech Stack
+
+Python | FastAPI | LangChain | PostgreSQL | Robot Framework | Celery
+
+## Interests
+
+- Generative AI
+- Backend Systems
+- Security Automation
+
+## Projects (Coming Soon)
+
+- RAG Document Assistant
+- AI Vulnerability Scanner
